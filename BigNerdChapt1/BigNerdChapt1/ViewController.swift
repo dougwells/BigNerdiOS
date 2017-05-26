@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     /* Notes:
         1) @IBAction or @IBOutlet says connection will be made in Interface Builder
-        2) 
+        2) Target & Action
     */
     
     @IBOutlet var questionLabel: UILabel!
